@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(212, 250, 245);
+}
+
+.encabezado {
+    border-style: groove;
+    border-color: rgb(14, 14, 170);
+    border-radius: 6%;
+    padding-top: 3%;
+    padding-bottom: 5%;
+    color: white;
+    background-image: url(https://thumbs.dreamstime.com/z/tecnolog%C3%ADa-de-computaci%C3%B3n-en-nube-y-almacenamiento-datos-l%C3%ADnea-para-el-concepto-red-empresarial-se-conecta-un-servicio-185991488.jpg);
+}
+
+#imagen {
+    float: left;
+    box-shadow: 5PX 5PX 20PX 10PX;
+    margin: 2px 40px 10px 20px;
+    border-radius: 30%;
+    width: 15%;
+    height: 15%;
+}
+
+h1{
+    display: flex;
+    padding-top: 4%;
+}
+
+
+#contenido {
+    padding: 1% 3% 3% 3%;
+    margin-top: 4%;
+    border-style: groove;
+    border-radius: 6%;
+    border-color: rgb(14, 14, 170);
+}
+
+p {
+    font-family: 'EB Garamond', serif;
+    font-size: large;
+}
+
+.bot-on {
+    border-radius: 15%;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    background-color: aliceblue;
+}
+
+.dropdown {
+    margin-top: 2%;
+}
+
+hr {
+    height: 1px;
+    width: 60%;
+    background-color: rgb(58, 11, 11);
+    margin-top: 2%;
+}
+
+#menu {
+    width: 5%;
+    margin: 20px 0px 0px 60px;
+    background-color: lightskyblue;
+    font-weight: bolder;
+}
+
